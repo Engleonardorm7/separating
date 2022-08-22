@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 	string characters;//[100];
 	string numeros="";
 	string letras="";
-	cout<<"type"<<endl;
+	cout<<"Type"<<endl;
 	getline(cin, characters);
 	cin.ignore();
 	int espacio=0;
